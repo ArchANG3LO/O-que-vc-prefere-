@@ -65,7 +65,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Me sacrificar para salvar 10 pessoas.",
-                afirmacao:"e ser um herói."
+                afirmacao:"e ser um herói ou heroína."
             },
             {
                 texto: "Sacrificar 10 pessoas para me salvar.",
